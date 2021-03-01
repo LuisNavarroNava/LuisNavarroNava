@@ -1,8 +1,5 @@
 Bienvenidos 👋
 
-<!--
-**LuisNavarroNava/LuisNavarroNava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Mi nombre es Luis Enrique Navarro Nava:
 
 - 🔭 Estudiante del tecnologico en la carrera de Tecnologias de la informacion y comunicacion.
